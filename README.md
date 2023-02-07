@@ -1,7 +1,7 @@
 
 -  Hi, I’m Vinicius do Nascimento Vergilio
--  I have a job in tecnologies ...
--  I’m currently learning system of  Information in college...
+-  I have a job in technology
+-  I am currently learning information systems at Fam College - Faculdade das Américas
 -  How to reach me me email - Vergilio41@gmail.com
 
 <div align="center">
